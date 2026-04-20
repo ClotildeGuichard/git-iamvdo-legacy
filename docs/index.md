@@ -45,7 +45,7 @@ git config user.name "votre_nom"
 
 Note: un flag `--global` permet de définir ce réglage de manière globale, pour tous les projets Git de votre machine. A ne pas utiliser dans le cas de machines partagées.
 
-Depuis l’ENSG, il est également nécessaire de configurer le proxy (déjà configuré en salle de cours)(youpi un truc en moins a faire) :
+Depuis l’ENSG, il est également nécessaire de configurer le proxy (déjà configuré en salle de cours) ( t'es pas gentil méchante cheffe de projet):
 
 ```bash
 git config --global http.proxy http://10.0.4.2:3128
@@ -126,7 +126,7 @@ Enfin, pour valider cet ensemble de modifications présent dans l’**index**, i
 
 Ces actions peuvent être répétées autant de fois que nécessaire, et cela sans se soucier de savoir où en est l’avancement du projet distant.
 
-Lorsque l’on souhaite envoyer ses modifications locales sur le repository distant, on utilise `git push`. Mais attention, si d’autres personnes ont déjà fait des modifications, il se peut que cela [génère des conflits](#conflits). Il est donc préférable de récupérer le code distant avant toutes nouvelles modifications à l’aide de `git fetch` ou `git pull`.
+Lorsque l’on souhaite envoyer ses modifications locales sur le repository distant, on utilise `git push`. Mais attention, si d’autres personnes ont déjà fait des modifications, il se peut que cela [génère des conflits](#conflits)(mais ... on aime les conflits). Il est donc préférable de récupérer le code distant avant toutes nouvelles modifications à l’aide de `git fetch` ou `git pull`.
 
 Aussi, la plupart du temps, il n’est pas autorisé de mettre à jour directement la branche principale d’un projet. Il faut alors passer par des *pull requests*.
 
