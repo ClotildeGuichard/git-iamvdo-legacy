@@ -19,6 +19,7 @@ Git est notamment utilisé pour le code informatique, mais ce sont avant tout de
 Poopoopoo !
 pourquoi toi t'a le droit c'est pas juste!!!
 D'où t'aurais pas le droit de faire ça ?
+tu fais que censurer alors oui j'ai l'impression de pas avoir le droit
 
 Git est disponible facilement sur toutes les plateformes. [Télécharger Git](https://git-scm.com/downloads)
 
