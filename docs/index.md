@@ -37,7 +37,7 @@ Sur vos machines personnelles, il est préférable [d’utiliser des URLs et une
 ## Configuration
 
 Première chose à faire dans un projet Git, c’est de configurer qui vous êtes :
-
+(faire TP1 d'abords)
 ```bash
 git config user.email "votre_adresse_mail"
 git config user.name "votre_nom"
