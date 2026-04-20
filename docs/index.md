@@ -22,7 +22,6 @@ D'où t'aurais pas le droit de faire ça ?
 Blablabla, j'aime bien t'embêter.
 
 Miaou
-
 Git est disponible facilement sur toutes les plateformes. [Télécharger Git](https://git-scm.com/downloads)
 
 Il peut être utilisé en ligne de commande depuis un terminal, ou via des outils graphiques comme les éditeurs de texte tel [Visual Studio Code](https://code.visualstudio.com/). Il existe également l’utilitaire `gitk`.
