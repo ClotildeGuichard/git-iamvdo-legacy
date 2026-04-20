@@ -18,10 +18,8 @@ Git est notamment utilisé pour le code informatique, mais ce sont avant tout de
 
 Poopoopoo !
 pourquoi toi t'a le droit c'est pas juste!!!
-D'où t'aurais pas le droit de faire ça ?
-Blablabla, j'aime bien t'embêter.
+D'où t'aurais pas le drout de 
 
-Miaou
 Git est disponible facilement sur toutes les plateformes. [Télécharger Git](https://git-scm.com/downloads)
 
 Il peut être utilisé en ligne de commande depuis un terminal, ou via des outils graphiques comme les éditeurs de texte tel [Visual Studio Code](https://code.visualstudio.com/). Il existe également l’utilitaire `gitk`.
