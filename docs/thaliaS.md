@@ -4,4 +4,4 @@
 ][def]
 
 [def]: developpement-du-chaton-8-premieres-semaines2-768x551.jpg
-tout c'est effort vraiment mais les chatons avec leurs coussinets absolument adorable
+tout ces effort vraiment mais les chatons avec leurs coussinets absolument adorable
