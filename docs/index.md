@@ -45,7 +45,7 @@ git config user.name "votre_nom"
 
 Note: un flag `--global` permet de définir ce réglage de manière globale, pour tous les projets Git de votre machine. A ne pas utiliser dans le cas de machines partagées.
 
-Depuis l’ENSG, il est également nécessaire de configurer le proxy (déjà configuré en salle de cours) :
+Depuis l’ENSG, il est également nécessaire de configurer le proxy (déjà configuré en salle de cours) ( t'es pas gentil méchante cheffe de projet):
 
 ```bash
 git config --global http.proxy http://10.0.4.2:3128
